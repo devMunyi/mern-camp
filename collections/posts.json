@@ -1,0 +1,186 @@
+[{
+  "_id": {
+    "$oid": "61f67e94e9c3f17989fb19f9"
+  },
+  "content": "<p>First post by peter updated</p>",
+  "postedBy": {
+    "$oid": "61e962d5517ff26f7affedfe"
+  },
+  "image": {
+    "url": "https://res.cloudinary.com/samuelsocialapp/image/upload/v1643544210/cgzamul8af58murftc9e.jpg",
+    "public_id": "cgzamul8af58murftc9e"
+  },
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2022-01-30T12:03:32.681Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-30T14:57:08.029Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f67ef1e9c3f17989fb19fb"
+  },
+  "content": "<p>Second post by peter without an image</p>",
+  "postedBy": {
+    "$oid": "61e962d5517ff26f7affedfe"
+  },
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2022-01-30T12:05:05.409Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-30T12:05:05.409Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f6de2237585d357d17f122"
+  },
+  "content": "<p>First post from sam with an image</p>",
+  "postedBy": {
+    "$oid": "61e941cb953efda1c5ab7431"
+  },
+  "image": {
+    "url": "https://res.cloudinary.com/samuelsocialapp/image/upload/v1643568671/e17qhb4likipxx3la0z1.jpg",
+    "public_id": "e17qhb4likipxx3la0z1"
+  },
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2022-01-30T18:51:14.757Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-30T18:51:14.757Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f6dfc58d5738fe6700540d"
+  },
+  "content": "<p>Second post from sam with an image</p>",
+  "postedBy": {
+    "$oid": "61e941cb953efda1c5ab7431"
+  },
+  "image": {
+    "url": "https://res.cloudinary.com/samuelsocialapp/image/upload/v1643568729/igemubstr41s3lefcjqr.jpg",
+    "public_id": "igemubstr41s3lefcjqr"
+  },
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2022-01-30T18:58:13.248Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-30T18:58:13.248Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f92cb5a6d20fa1a36f0be8"
+  },
+  "content": "<p>Today's post without an image</p>",
+  "postedBy": {
+    "$oid": "61e941cb953efda1c5ab7431"
+  },
+  "likes": [
+    {
+      "$oid": "61e941cb953efda1c5ab7431"
+    }
+  ],
+  "comments": [],
+  "createdAt": {
+    "$date": "2022-02-01T12:51:01.867Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-04T13:51:21.106Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f92cdfa6d20fa1a36f0bec"
+  },
+  "content": "<p>Today's second post without an image</p>",
+  "postedBy": {
+    "$oid": "61e941cb953efda1c5ab7431"
+  },
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2022-02-01T12:51:43.796Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-01T12:54:33.595Z"
+  },
+  "__v": 0,
+  "image": {
+    "url": "https://res.cloudinary.com/samuelsocialapp/image/upload/v1643720072/con5akwszkpnv26kssau.png",
+    "public_id": "con5akwszkpnv26kssau"
+  }
+},{
+  "_id": {
+    "$oid": "61fa8d57acd826b008187914"
+  },
+  "content": "<p>This is david...</p>",
+  "postedBy": {
+    "$oid": "61fa8c50acd826b008187904"
+  },
+  "image": {
+    "url": "https://res.cloudinary.com/samuelsocialapp/image/upload/v1643810111/bpcwfspvplbywnecz8ib.jpg",
+    "public_id": "bpcwfspvplbywnecz8ib"
+  },
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2022-02-02T13:55:35.185Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-02T13:55:35.185Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fa8d86acd826b008187918"
+  },
+  "content": "<p>This is cool social network...</p>",
+  "postedBy": {
+    "$oid": "61fa8c50acd826b008187904"
+  },
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2022-02-02T13:56:22.636Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-02T13:56:22.636Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fce67c904d9e83c761bf77"
+  },
+  "content": "<p>I'ts working great with image upload...</p>",
+  "postedBy": {
+    "$oid": "61fa8c8aacd826b008187907"
+  },
+  "likes": [
+    {
+      "$oid": "61e941cb953efda1c5ab7431"
+    }
+  ],
+  "comments": [],
+  "createdAt": {
+    "$date": "2022-02-04T08:40:29.030Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-04T13:08:36.622Z"
+  },
+  "__v": 0,
+  "image": {
+    "url": "https://res.cloudinary.com/samuelsocialapp/image/upload/v1643964242/miwcysjkrhw6jhfz1zcd.jpg",
+    "public_id": "miwcysjkrhw6jhfz1zcd"
+  }
+}]

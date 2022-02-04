@@ -1,0 +1,113 @@
+[{
+  "_id": {
+    "$oid": "61e941cb953efda1c5ab7431"
+  },
+  "name": "sam",
+  "email": "samunyi90@gmail.com",
+  "password": "$2b$12$Lz5YAIvENE4CfGOvMseMjer/NjiR43tscMZxUnEM.yv.nEbzyj0oe",
+  "secret": "red",
+  "following": [
+    {
+      "$oid": "61fa8c8aacd826b008187907"
+    }
+  ],
+  "followers": [
+    {
+      "$oid": "61fa8c8aacd826b008187907"
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-01-20T11:04:43.904Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-04T13:48:16.419Z"
+  },
+  "__v": 0,
+  "username": "@sam",
+  "about": "This is sam and i love coding...",
+  "image": {
+    "url": "https://res.cloudinary.com/samuelsocialapp/image/upload/v1643804644/swlgn7fbm2huvaoax7qb.jpg",
+    "public_id": "swlgn7fbm2huvaoax7qb"
+  }
+},{
+  "_id": {
+    "$oid": "61e962d5517ff26f7affedfe"
+  },
+  "name": "peter",
+  "email": "peter98@gmail.com",
+  "password": "$2b$12$zxbR6AuazVwCtUiOvTKGkuGyqLWmBCTnKDQa3cCV5SCkvdVQu2O0G",
+  "secret": "Kinamba",
+  "following": [],
+  "followers": [],
+  "createdAt": {
+    "$date": "2022-01-20T13:25:41.959Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-04T13:48:06.761Z"
+  },
+  "__v": 0,
+  "username": "Peter"
+},{
+  "_id": {
+    "$oid": "61f941b1d3f95337f3ce0bd3"
+  },
+  "name": "John",
+  "email": "john@gmail.com",
+  "password": "$2b$12$u9pKjNGY6KCAQmh3U8L7cex9FLSa20sf3p3u9NTFJdGFx3yz1dL92",
+  "secret": "red",
+  "following": [],
+  "followers": [],
+  "createdAt": {
+    "$date": "2022-02-01T14:20:33.870Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-04T13:48:16.186Z"
+  },
+  "__v": 0,
+  "about": "I love coding during the day",
+  "username": "John"
+},{
+  "_id": {
+    "$oid": "61fa8c50acd826b008187904"
+  },
+  "name": "David",
+  "email": "david@gmail.com",
+  "password": "$2b$12$0L1j2YzNOAANJwVgSajluOUQZvYb050M/eaXEFeHxN56n/2JwZAZi",
+  "secret": "red",
+  "username": "c7_Otq",
+  "following": [],
+  "followers": [],
+  "createdAt": {
+    "$date": "2022-02-02T13:51:13.021Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-04T11:38:47.177Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fa8c8aacd826b008187907"
+  },
+  "name": "Charles",
+  "email": "charles@gmail.com",
+  "password": "$2b$12$j.dQUAVYxV6q3KxfL9MWtO.youUv9mliFIHd6cU8rzU3sXto.sc1W",
+  "secret": "red",
+  "username": "kFRUMR",
+  "following": [
+    {
+      "$oid": "61e941cb953efda1c5ab7431"
+    }
+  ],
+  "followers": [
+    {
+      "$oid": "61e941cb953efda1c5ab7431"
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-02-02T13:52:10.986Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-04T11:37:54.236Z"
+  },
+  "__v": 0
+}]
